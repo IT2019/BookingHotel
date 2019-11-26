@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>minhson.sping</groupId>
-  <artifactId>springofson</artifactId>
+  <artifactId>BookingHotel</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>springofson Maven Webapp</name>
+  <name>BookingHotel Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -82,7 +82,7 @@
         </dependency>
   </dependencies>
   <build>
-    <finalName>springofson</finalName>
+    <finalName>bookinghotel</finalName>
     <plugins>
         
             <!-- Config: Maven Tomcat Plugin -->
